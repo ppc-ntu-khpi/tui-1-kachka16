@@ -1,22 +1,15 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=24122001)
-# UI Lab 1
-![](terminal-icon.png)
-![](gui-icon.png)
+# Звіт о практичній роботі
 
-Це одна з робіт, які доповнюють основний цикл лабораторних робіт #1-8 (проект **Banking**, [Netbeans](https://netbeans.org/)) з ООП.  Основна мета цих додаткових вправ - познайомитись з різними видами інтерфейсів користувача та засобами їх створення. Згадувані 'базові' роботи розміщено в [окремому репозиторії](https://github.com/liketaurus/OOP-JAVA) (якщо будете робити завдання на "4" або "5" раджу переглянути [діаграму класів](https://github.com/liketaurus/OOP-JAVA/blob/master/MyBank.png), аби розуміти які методи є у класів).
+## Завдання 1
 
-В ході першої роботи вам пропонується виконати **наступне завдання** - [Робота 1: TUI з Jexer](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/blob/master/Lab%201%20-TUI/Lab%201.md)
-  
-**Додаткове завдання** (для тих хто зробив все і прагне більшого): [дивіться тут](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/blob/master/Lab%201%20-TUI/Lab%201%20-%20add.md)
+>На "п'ять"
+Перепишіть метод ShowCustomerDetails з використанням класів Bank, Customer, Account та ін. з наших попередніх лаб - інформація про клієнтів банку та їх рахунках має читатись з файлу test.dat (робота номер 8, файл даних також є в цьому ж репозиторію). Інформацію про клієнта (та про перший рахунок, що йому належить) ви маєте побачити, увівши номер клієнта.
+Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
 
-Всі необхідні бібліотеки містяться у теці [jars](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/tree/master/jars). В тому числі - всі необхідні відкомпільовані класи з робіт 1-8 - файл [MyBank.jar](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/blob/master/jars/MyBank.jar). Файл даних лежить у теці [data](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/tree/master/data).
+## Скріншоти виконання роботи
 
----
-**УВАГА! Не забуваємо здавати завдання через Google Classroom та вказувати посилання на створений для вас репозиторій!**
+![task1](https://github.com/ppc-ntu-khpi/tui-1-kachka16/blob/master/TUIdemo/img/result2.png?raw=true)
 
-Також пам'ятайте, що ніхто не заважає вам редагувати файл README у вашому репозиторії😉.
-А ще - дуже раджу спробувати нову фічу - інтеграцію з IDE REPL.it (хоч з таким завданням вона може й не впоратись, однак, цікаво ж!).
+![task2](https://github.com/ppc-ntu-khpi/tui-1-kachka16/blob/master/TUIdemo/img/result3.png?raw=true)
 
-![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
-![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
-![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
+![task3](https://github.com/ppc-ntu-khpi/tui-1-kachka16/blob/master/TUIdemo/img/result4.png?raw=true)
